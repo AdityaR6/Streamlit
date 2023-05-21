@@ -70,7 +70,7 @@ def translate(langs):
     # Play audio
     st.audio(mp3_fp, format='audio/mp3')
 st.title("YouTube Video Summarizer")
-link = st.text_input("Enter the link to the YouTube Video:")
+link = st.text_input("Enter the link to the YouTube Video:", value = "https://www.youtube.com/watch?v=gfbSIdwL0FE")
 
 summarizer = pipeline("summarization")
 # Fetch transcript from YouTube video
