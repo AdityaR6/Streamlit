@@ -1,5 +1,5 @@
-﻿youtube-transcript-api==0.5.0
-streamlit==1.13.0
+youtube-transcript-api==0.5.0
+streamlit==1.22.0
 transformers==4.27.4
 deep-translator==1.10.1
 gTTS==2.3.1
