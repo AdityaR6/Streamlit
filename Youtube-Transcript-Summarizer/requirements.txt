@@ -1,6 +1,7 @@
 youtube-transcript-api==0.5.0
-streamlit==1.22.0
-transformers==4.27.4
+transformers>=4.29.0
+streamlit>=1.22.0
+protobuf<4,>=3.12
 deep-translator==1.10.1
 gTTS==2.3.1
 torch==2.0.0
