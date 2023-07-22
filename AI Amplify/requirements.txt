@@ -1,0 +1,7 @@
+streamlit==1.13.0
+opencv-python==4.8.0.74
+opencv-python-headless==4.8.0.74
+Pillow==9.0.0
+deepface==0.0.79
+text2emotion==0.0.5
+emoji==1.7.0
